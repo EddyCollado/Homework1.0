@@ -1,0 +1,118 @@
+
+
+html, body {
+
+    height: 100%;
+    margin: 0;
+}
+
+body {
+
+    font-size: 17px;
+    line-height: 25px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightgrey;
+   
+
+}
+
+.main-bio {
+
+        padding-left: 150px;
+        padding-right: 150px;
+
+}
+
+h1 {
+
+        padding-top: 30px;
+        padding-left: 150px;
+        color: #4aaaa5;
+}
+
+#box1 {
+
+    margin-top: 100px;
+    margin-left: 250px;
+    width: 250px;
+    height: 75px;
+    background-color: #4aaaa5;
+    text-align: center;
+    padding-top: 25px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#relative {
+
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+
+img {
+
+    width: 130px;
+    height: 130px;
+    float: left;
+    padding: 15px 15px 15px 150px;
+
+
+}
+
+p.clear {
+
+    clear: both;
+
+}
+
+.wrapper {
+
+        min-height: 100%;
+        margin-bottom: -50px;
+
+
+
+
+}
+
+
+
+.content {
+
+    width: 960px;
+    height: 200px;
+    border: 2px solid lightgrey;
+    margin: 20px auto;
+    flex: 1 0 auto;
+    background-color: white;
+
+}
+
+ .footer {
+
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    flex-shrink: 0;
+    text-align: center;
+    color: white;
+
+}
+
+.footer,
+.push {
+
+    height: 50px;
+
+}
+
+
+.simpleanchor {
+
+    float: right;
+    padding: 150px 10px;
+
+
+}
