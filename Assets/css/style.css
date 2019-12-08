@@ -31,10 +31,11 @@ h1 {
         color: #4aaaa5;
 }
 
+/* Appy CSS to the teal box with my name */
 #box1 {
 
     margin-top: 100px;
-    margin-left: 150px;
+    margin-left: 25%;
     width: 250px;
     height: 75px;
     background-color: #4aaaa5;
@@ -44,7 +45,7 @@ h1 {
     font-weight: bold;
     font-size: 30px;
 }
-
+/* Apply CSS to the top border or navbar of the page */
 #relative {
 
     width: 100%;
@@ -113,6 +114,7 @@ p.clear {
 
     float: right;
     padding: 150px 10px;
+    margin-right: 25px;
 
 
 }
