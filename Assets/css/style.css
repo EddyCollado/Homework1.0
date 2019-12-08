@@ -19,15 +19,15 @@ body {
 
 .main-bio {
 
-        padding-left: 150px;
-        padding-right: 150px;
+        padding-left: 50px;
+        padding-right: 50px;
 
 }
 
 h1 {
 
         padding-top: 30px;
-        padding-left: 150px;
+        padding-left: 50px;
         color: #4aaaa5;
 }
 
@@ -58,7 +58,7 @@ img {
     width: 130px;
     height: 130px;
     float: left;
-    padding: 15px 15px 15px 150px;
+    padding: 15px 15px 15px 50px;
 
 
 }
@@ -83,10 +83,9 @@ p.clear {
 
 .content {
 
-    width: 960px;
-    height: 200px;
+    width: 50%;
     border: 2px solid lightgrey;
-    margin: 20px auto;
+    margin: 20px 20px 175px 510px;
     flex: 1 0 auto;
     background-color: white;
 
